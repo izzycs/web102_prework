@@ -24,7 +24,7 @@ could reduce load time by optimizing the images
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/tNwbYxG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/tNwbYxG"  ><a href="//imgur.com/a/tNwbYxG">web 102 prework </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
